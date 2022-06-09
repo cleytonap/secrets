@@ -21,9 +21,10 @@ Course: UDEMY - The Complete 2022 Web Development Bootcamp (https://www.udemy.co
 
 ## Author: 
 Cleyton Andre Pires (cleytonap)
+
 Email: cleyton07@gmail.com
 
-https://github.com/cleytonap/
+Github: https://github.com/cleytonap/
 
 ## Date:
 09-Jun-2022
