@@ -29,7 +29,7 @@ Tags:
 
 ## Next steps
 
-- Add email verification
+- Add email verification for user registration
 - Add forget password
 - Add other authentication strategies (facebook, azure, etc)
 
