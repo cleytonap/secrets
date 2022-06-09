@@ -17,7 +17,22 @@ Tags:
 
 ## References:
 
-Course: UDEMY - The Complete 2022 Web Development Bootcamp (https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+ - Course: UDEMY - The Complete 2022 Web Development Bootcamp (https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+ - https://www.sitepoint.com/local-authentication-using-passport-node-js/
+
+ - https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/ 
+ 
+ - https://github.com/rahulsups/nodejs-auth
+ 
+ - https://www.passportjs.org/
+
+## Next steps
+
+- Add email verification
+- Add forget password
+- Add other authentication strategies (facebook, azure, etc)
+
 
 ## Author: 
 Cleyton Andre Pires (cleytonap)
